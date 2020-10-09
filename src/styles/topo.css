@@ -1,0 +1,35 @@
+.topo{
+   background-color: darkgrey; 
+   height: 854px;
+   text-align: center;
+}
+
+.letra-vermelha a {
+    color: red;
+    }
+
+.fonte-da-letra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.letra-branca {
+    color: white;
+}
+
+.foto{
+    background-image: url("../img/hugs.jpg");
+    border-image: fill;
+    background-repeat: no-repeat;
+    align-self: center;
+    text-align: center;
+    
+
+}
+
+.centro{
+    text-align: center;
+}
+
+.fundo-barra{
+    background-color: black;
+}

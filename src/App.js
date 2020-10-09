@@ -19,19 +19,13 @@ class App extends Component {
   render(){
     return(
       <div className= "App">
-        <p id= "home">Página de Exercício React</p>
-        <a href= "#home">Home</a> | <a href= "#contato">Contato</a> | <a href= "#parceiros">Parceiros</a> | <a href= "#servicos">Serviços</a> | <a href= "#sobre">Sobre</a> | <a href= "#rodape">Rodape</a>
-        
         <Topo></Topo>
         <Sobre text="Projeto feito com React em página única"></Sobre>
-        <Contato></Contato>
-        <Parceiros></Parceiros>
         <Servicos></Servicos>
+        <Parceiros></Parceiros>
+        <Contato></Contato>
         <Footer></Footer>
-
        
-        
-        
       </div>   
     );
   }
