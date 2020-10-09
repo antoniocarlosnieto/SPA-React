@@ -17,7 +17,7 @@
 }
 
 .foto{
-    background-image: url("../img/hugs.jpg");
+    background-color: black;
     border-image: fill;
     background-repeat: no-repeat;
     align-self: center;
